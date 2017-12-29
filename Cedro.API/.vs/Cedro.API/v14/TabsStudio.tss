@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\controllers\pratosrestaurantescontroller.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Maurilio Filho\Desktop\Cedro.API\src\Cedro.API\Controllers\RestaurantesController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\models\restaurantedto.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\services\restauranteinforepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\services\irestauranteinforepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\startup.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\models\pratosrestaurantesforupdatedto.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\maurilio filho\desktop\cedro.api\src\cedro.api\models\restauranteforupdatedto.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Maurilio Filho\Desktop\Cedro.API\src\Cedro.API\Entities\ConnectContext.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
